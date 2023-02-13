@@ -1,0 +1,61 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+
+header
+{
+    font-size: large;
+    text-align: center;
+}
+img 
+{
+  border-radius: 30px;
+  border: 6px solid #000002;
+}
+body
+{
+  background-color: #f5f1db;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+h3
+{
+    text-align: left;
+}
+h4
+{
+    text-align:  left;
+}
+h5
+{
+    text-align: left;
+}
+
+main
+{
+    font-size: medium;
+    text-align: left;
+}
+footer
+{
+    font-size: small;
+    text-align: center;
+}
+button
+{
+  background-color: #B0D91D;
+  border-radius: 5px;
+  border: 2px solid #000002;
+  padding: 15px 32px;
+  color: #000002;
+  font-weight: bold;
+  
+}
