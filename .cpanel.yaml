@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/ryzhanyc/mark_opanasiuk_personal/
+    - export DEPLOYPATH=/home2/ryzhanyc/public_html/
     - /bin/cp -R * $DEPLOYPATH
