@@ -1,0 +1,6 @@
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home2/ryzhanyc/repositories/MarkCV_2023
+    - /bin/cp -R * $DEPLOYPATH
